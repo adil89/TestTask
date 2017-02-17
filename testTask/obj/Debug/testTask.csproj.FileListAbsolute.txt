@@ -1,0 +1,5 @@
+C:\Users\adili_000\documents\visual studio 2012\Projects\testTask\testTask\bin\Debug\testTask.exe.config
+C:\Users\adili_000\documents\visual studio 2012\Projects\testTask\testTask\bin\Debug\testTask.exe
+C:\Users\adili_000\documents\visual studio 2012\Projects\testTask\testTask\bin\Debug\testTask.pdb
+C:\Users\adili_000\documents\visual studio 2012\Projects\testTask\testTask\obj\Debug\testTask.exe
+C:\Users\adili_000\documents\visual studio 2012\Projects\testTask\testTask\obj\Debug\testTask.pdb
